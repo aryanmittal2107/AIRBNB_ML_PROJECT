@@ -50,6 +50,7 @@ AIRBNB_ML_PROJECT/
 │
 ├── .gitignore
 └── README.md
+```
 Dataset
 The datasets contain Airbnb listing information such as:
 - Price
